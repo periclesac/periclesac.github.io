@@ -4,4 +4,5 @@ Página pessoal de Pericles Araujo de Carvalho, publicada com GitHub Pages.
 
 ## Visualização local
 
-Abra `https://periclesac.github.io/#sobre` diretamente no navegador ou sirva a pasta com qualquer servidor HTTP estático.
+**[Abra `https://periclesac.github.io/#sobre` diretamente no navegador ou sirva a pasta com qualquer servidor HTTP estático.
+**[Abrir https://periclesac.github.io/#sobre](https://periclesac.github.io/#sobre)**
